@@ -1,0 +1,9 @@
+{
+  "generator-jhipster:7.8.1": {
+    "promptValues": {
+      "packageName": "com.sample.category",
+      "nativeLanguage": "en",
+      "microservicePath": "/home/Nafissatou/Documents/sample/category"
+    }
+  }
+}
